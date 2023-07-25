@@ -22,4 +22,4 @@
 </div>  
 </td></tr></table>   
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Pluviophile225/Pluviophile225/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/Pluviophile225/Pluviophile225/main/assets/github-contribution-grid-snake.svg)
