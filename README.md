@@ -21,3 +21,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pluviophile225&show_icons=true&count_private=true&hide_border=true" align="right"/>
 </div>  
 </td></tr></table>   
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Pluviophile225/Pluviophile225/assets/github-contribution-grid-snake.svg" /></div>
